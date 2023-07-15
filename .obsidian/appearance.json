@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "cssTheme": "Solarized",
+  "theme": "obsidian",
+  "textFontFamily": "Times New Roman",
+  "monospaceFontFamily": "Source Code Pro",
+  "interfaceFontFamily": "Courier New",
+  "baseFontSizeAction": false,
+  "nativeMenus": false,
+  "baseFontSize": 16
+}

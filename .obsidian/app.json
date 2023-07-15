@@ -1,0 +1,10 @@
+{
+  "alwaysUpdateLinks": true,
+  "vimMode": true,
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "showFrontmatter": false,
+  "attachmentFolderPath": "attachements",
+  "promptDelete": false,
+  "showUnsupportedFiles": true
+}
