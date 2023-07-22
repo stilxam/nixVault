@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "46912efd40e3dd65",
+        "id": "7a6780c6874457a2",
         "type": "tabs",
         "children": [
           {
-            "id": "f293adae2c3791d2",
+            "id": "c33c5b76ebb4efb9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ToDoList.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ToDoList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ToDoList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,15 +132,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ToDoList.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,12 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f293adae2c3791d2",
+  "active": "c33c5b76ebb4efb9",
   "lastOpenFiles": [
+    "Test_LLM.md",
+    "Template/Opt_Vol_Pricing_Template.md",
+    "ToDoList.md",
     "Template/task_template.md",
     "Template/Probability_Theory_Template.md",
-    "ToDoList.md",
-    "Template/Opt_Vol_Pricing_Template.md",
     "Buying_and_Selling.md",
     "Financial_Contracts.md",
     "TestTest.md",
